@@ -11,11 +11,11 @@ export default function Index() {
         source={require('../assets/images/logo.png')}
       />
       <Text style={styles.title}>
-        Dieta<Text style={{ color: colors.white }}>.AI</Text>
+        NutriPet<Text style={{ color: colors.white }}>.AI</Text>
       </Text>
 
       <Text style={styles.text}>
-        Sua Dieta personalizada com inteligência Artificial
+        A Dieta personalizada com inteligência Artificial para seu pet
       </Text>
 
       <Link href="/step" asChild>
